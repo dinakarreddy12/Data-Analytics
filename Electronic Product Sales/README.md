@@ -1,6 +1,7 @@
 #Data Analytics Project on Sales Insights
 
-—
+—![power sales](https://user-images.githubusercontent.com/114387483/202376555-335aa994-f7cb-4cde-bc54-6bcab11da9c6.PNG)
+
 
 In this Project, I'm going to share with you the insights I've learned from Various Basic Projects. You'll learn how to avoid common mistakes . You'll also learn how to get over your fear  and how to increase your skills by this Basic Sales Project .
 
